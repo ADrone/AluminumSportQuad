@@ -1,0 +1,28 @@
+Overall design methodology will be based on three key things, but won't forget the details! 
+Trying to get multicopter design that is the best of 3 issues.  
+-mass manufacturable (Lowers Cost!)
+-STRONG and capable  (Lowers Repairs)
+-lightwieght         (Lowers power use)
+
+Hopefully these requirements don’t change but they are open to discussion.
+
+The idea is to make an INDUSTRIAL frame that can take a beating. 
+It has to be able to be made by a maker. 
+It sounds obvious but some of the ones out there are almost impossible to make. 
+An X is easy but can be prone to more flexing than others, but gives it excellent manufacturability and weight.
+Coaxial 8-rotor allows it to save space and have emergency stability.
+Have the rotors generally higher than the rest of the platform so that it can easily carry awkward things.
+
+
+
+needed - 
+
+
+-Contributors in any shape and form. It is a fresh project and needs any people.
+
+-attachments and modular ideas.
+-Type of modular connector(s) that can be installed and detached quickly.
+Go pro, telemetry(ies), fpv stuff, gps(s), antennas, cargo,
+
+-Need to do as many tests as possible and make sure they are repeatable.
+-Keep designing and testing new designs.
