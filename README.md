@@ -12,3 +12,5 @@ The AluminumSportQuad repository contains the design files for each part, instru
 <a href="http://www.instructibles.com" target="_blank">instructibles.</a>
 
 There might be a section for testing results
+
+Version 1 tuning parameters will be listed here when they are finalized.
